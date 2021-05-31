@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/medoc/static/css/main.762a2310.chunk.css",
+    "main.js": "/medoc/static/js/main.294d9041.chunk.js",
+    "main.js.map": "/medoc/static/js/main.294d9041.chunk.js.map",
+    "runtime-main.js": "/medoc/static/js/runtime-main.e6849ca7.js",
+    "runtime-main.js.map": "/medoc/static/js/runtime-main.e6849ca7.js.map",
+    "static/js/2.7796f9f0.chunk.js": "/medoc/static/js/2.7796f9f0.chunk.js",
+    "static/js/2.7796f9f0.chunk.js.map": "/medoc/static/js/2.7796f9f0.chunk.js.map",
+    "index.html": "/medoc/index.html",
+    "static/css/main.762a2310.chunk.css.map": "/medoc/static/css/main.762a2310.chunk.css.map",
+    "static/js/2.7796f9f0.chunk.js.LICENSE.txt": "/medoc/static/js/2.7796f9f0.chunk.js.LICENSE.txt",
+    "static/media/doctor.19890066.png": "/medoc/static/media/doctor.19890066.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6849ca7.js",
+    "static/js/2.7796f9f0.chunk.js",
+    "static/css/main.762a2310.chunk.css",
+    "static/js/main.294d9041.chunk.js"
+  ]
+}
