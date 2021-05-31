@@ -1,14 +1,14 @@
 import React from 'react';
-import About from './About';
-import Contact from './Contact';
-import Home from './Home';
+import Navbar from './components/Navbar';
+import './App.css';
+import Main from './components/main';
+
 function App(props) {
   return (
- <div className="cont">
-  <Home />
- <About />
- <Contact />
-</div>
+    <>
+    <Navbar />
+    <Main />
+    </>
   );
 }
 
